@@ -1,4 +1,12 @@
-# A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning
+# A Large-scale Attribute Dataset for Zero-shot Learning
+
+<br>
+<br>
+
+<div align=center><img src="https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning/blob/master/Illustration.png"/></div>
+
+<br>
+<br>
 
 The links for the paper, data, competition and baseline.
 
