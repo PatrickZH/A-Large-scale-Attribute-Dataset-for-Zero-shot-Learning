@@ -22,3 +22,5 @@ The links to download the paper, data, competition and baseline:
 [competition link](https://challenger.ai/competition/zsl2018)
 
 [baseline method](https://github.com/AIChallenger/AI_Challenger_2018/tree/master/Baselines/zero_shot_learning_baseline)
+
+Contact: Bo Zhao (bozhaonanjing at Gmail)
