@@ -25,4 +25,14 @@ from [BaiduYun](https://pan.baidu.com/s/1QpUpNLnUAOK1vhg5Di0qUQ), Password: cwju
 
 [baseline method](https://github.com/AIChallenger/AI_Challenger_2018/tree/master/Baselines/zero_shot_learning_baseline)
 
+Citation <br>
+```
+@article{zhao2018large,
+  title={A Large-scale Attribute Dataset for Zero-shot Learning},
+  author={Zhao, Bo and Fu, Yanwei and Liang, Rui and Wu, Jiahong and Wang, Yonggang and Wang, Yizhou},
+  journal={arXiv preprint arXiv:1804.04314},
+  year={2018}
+}
+```
+
 Contact: Bo Zhao (bozhaonanjing at Gmail)
