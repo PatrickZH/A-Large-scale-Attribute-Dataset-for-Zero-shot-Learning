@@ -12,6 +12,8 @@ We propose a Large-scale Attribute Dataset (LAD) which has 78,017 images of 5 su
 <br>
 We organized an international Zero-shot Learning Competition under AI Challenger using this dataset. More than 110 teams attended the competition.
 <br>
+For fair comparison, we provide standard splits of classes for ZSL and splits of images for traditional supervised Learning (packaged in the data).
+<br>
 <br>
 The links to download the paper, data, competition and baseline:
 
