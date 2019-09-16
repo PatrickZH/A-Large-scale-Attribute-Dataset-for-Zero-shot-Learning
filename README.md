@@ -37,8 +37,8 @@ Citation <br>
 }
 ```
 <br>
-<br>
 Experiment Details in the Paper <br>
 We do separate experiments on each super-class. For each super-class, we do experiments for 5 times with different splits of seen/unseen classes. We provided the 5 splits in file "split_zsl.txt" (in the data package). For super-class X, e.g. F (Fruits), you can use all Label_F_xx in each Unseen_List, e.g. Unseen_List_1, as the testing unseen classes. The rest classes in super-class X are for training seen classes. The 5 Unseen_Lists are for 5 experiments, then the 5 results are averaged as the performance on super-class X. 
-
+<br>
+<br>
 Contact: Bo Zhao (bozhaonanjing at Gmail)
