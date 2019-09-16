@@ -29,12 +29,16 @@ from [BaiduYun](https://pan.baidu.com/s/1QpUpNLnUAOK1vhg5Di0qUQ), Password: cwju
 
 Citation <br>
 ```
-@article{zhao2018large,
+@inproceedings{zhao2019large,
   title={A Large-scale Attribute Dataset for Zero-shot Learning},
   author={Zhao, Bo and Fu, Yanwei and Liang, Rui and Wu, Jiahong and Wang, Yonggang and Wang, Yizhou},
-  journal={arXiv preprint arXiv:1804.04314},
-  year={2018}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  year={2019}
 }
 ```
+<br>
+<br>
+Experiment Details in the Paper <br>
+We do separate experiments on each super-class. For each super-class, we do experiments for 5 times with different splits of seen/unseen classes. We provided the 5 splits in file "split_zsl.txt" (in the data package). For super-class X, e.g. F (Fruits), you can use all Label_F_xx in each Unseen_List, e.g. Unseen_List_1, as the testing unseen classes. The rest classes in super-class X are for training seen classes. The 5 Unseen_Lists are for 5 experiments, then the 5 results are averaged as the performance on super-class X. 
 
 Contact: Bo Zhao (bozhaonanjing at Gmail)
