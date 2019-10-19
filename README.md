@@ -17,7 +17,7 @@ For fair comparison, we provide standard splits of classes for ZSL and splits of
 <br>
 The links to download the paper, data, competition and baseline:
 
-[paper download](https://arxiv.org/pdf/1804.04314v2.pdf)
+[paper download](http://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Zhao_A_Large-Scale_Attribute_Dataset_for_Zero-Shot_Learning_CVPRW_2019_paper.pdf)
 
 data download<br>
 from [Google Drive](https://drive.google.com/open?id=1WU2dld1rt5ajWaZqY3YLwLp-6USeQiVG) <br>
